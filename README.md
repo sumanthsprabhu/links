@@ -3,6 +3,11 @@ Process calculus: http://www.usingcsp.com/cspbook.pdf<br/>
 Theory of process: http://arxiv.org/pdf/1009.2259v1.pdf<br/>
 Software model checking for people who are interested in automata: https://swt.informatik.uni-freiburg.de/staff/heizmann/2013cav-heizmann-hoenicke-podelski-software-model-checking-for-people-who-love-automata.pdf<br/>
 
+#Time granularity
+https://hal.inria.fr/hal-00922282/document<br/>
+http://www.springer.com/in/book/9783540669975<br/>
+Towards an Efficient SAT Encoding for Temporal
+Reasoning<br/>
 
 #PhD
 http://jameshaytonphd.com/everything/
