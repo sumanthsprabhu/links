@@ -10,6 +10,10 @@ http://www.springer.com/in/book/9783540669975<br/>
 Towards an Efficient SAT Encoding for Temporal
 Reasoning<br/>
 
+#Structure peeling
+http://hpc.serc.iisc.ernet.in/papers/2009/PACT09-sandya.pdf<br/>
+http://www.capsl.udel.edu/conferences/open64/2008/Papers/111.pdf<br/>
+
 #SAT 
 http://www.cs.sfu.ca/~mitchell/cmpt-827/2015-Fall/Projects/Parallel-Manthey-PhD.pdf
 
