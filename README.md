@@ -10,6 +10,9 @@ http://www.springer.com/in/book/9783540669975<br/>
 Towards an Efficient SAT Encoding for Temporal
 Reasoning<br/>
 
+#SAT 
+http://www.cs.sfu.ca/~mitchell/cmpt-827/2015-Fall/Projects/Parallel-Manthey-PhD.pdf
+
 #PhD
 http://jameshaytonphd.com/everything/
 http://jameshaytonphd.com/how-to-choose-a-thesis-topic/
